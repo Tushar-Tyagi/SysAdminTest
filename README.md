@@ -1,2 +1,2 @@
 # SysAdminTest
-This repository is the IIT Mandi SNTC's System Adminitration Test.
+This repository is for the IIT Mandi SNTC's System Adminitration Test.
