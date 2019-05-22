@@ -1,7 +1,7 @@
 **Task 1**
 *Date : 22-05-2019*
 
-**GPG**
+**GPG**  
 *[GPG]: GNU Privacy Guard
 
 * [This](https://www.youtube.com/watch?v=DMGIlj7u7Eo) video gave me the following insites and details:
