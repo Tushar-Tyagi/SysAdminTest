@@ -1,7 +1,7 @@
 **Task 1** :
 *22-05-2019*
 
-**GPG**  
+**GPG**
 *[GPG]: GNU Privacy Guard
 
 * [This](https://www.youtube.com/watch?v=DMGIlj7u7Eo) video gave me the following insites and details:
@@ -30,5 +30,12 @@ Saving the public key: `gpg --export-keys -a "Your Name" > yourname.pub` , and p
     Do `chmod u+x SuperCrypt.sh` to make the scriptfile executable.
 
 *27/05/2019*
-* Shell Script completed.
-*
+* Shell Script completed
+To use the shell file:
+    * Make scriptfile executable by `chmod u+x SuperCrypt.sh`
+    * Follow the prompt.
+    * **NOTE** : The file which needs to be encrypted/decrypted needs to be in the same folder.
+    * *Possible Enhancements* : User should be able to select the folder for selecting and saving the files.
+
+* The soultion for saving the data in case of hard drive crash is to update these .gpg files to a secure remote server on daily basis.
+
