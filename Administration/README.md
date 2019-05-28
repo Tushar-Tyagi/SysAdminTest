@@ -39,3 +39,9 @@ To use the shell file:
 
 * The soultion for saving the data in case of hard drive crash is to update these .gpg files to a secure remote server on daily basis.
 
+**Task 2** : To signup on AWS / Digitalocean / some other virtual server providing company and install
+streisand, and then to SETUP YOUR OWN VIRTUAL PRIVATE NETWORK(VPN) according to the instructions
+given on the streisand github page.
+
+**Solution** :
+* Current Status: DigitalOcean not accepting my card & waiting for AWS verification. :(.
