@@ -27,3 +27,4 @@ in following findings:
     * Registrar URL: http://www.ernet.in (ERNET India)
 
 iitmandi.ac.in's domain was bought from *MumbaiHosting* (As confirmed my Mr. Lalit Thakur).
+
